@@ -1,0 +1,12 @@
+{
+    "name": "web-brayan-lab1",
+    "version": "1.0.0",
+    "description": "Pagina de bienvenida para el laboratorio IaaS y PaaS en Azure",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "engines": {
+        "node": "22.x"
+    }
+}
